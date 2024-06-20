@@ -1,1 +1,1 @@
-## This is a bansking system API  suing Python
+## This is a banking system API  built using  Python
